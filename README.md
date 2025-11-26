@@ -86,7 +86,7 @@ addEventListener('hashchange', (event) => {
 Diplomat can manipulate any GeoJSON or vector tile source, as long as it includes the following properties on each feature:
 
 - **`name`** (`string`): The name in the local or official language.
-- **<code>name:<var>xyz</var></code>** (`string`): The name in another language, where <var>xyz</var> a valid [IETF language tag](https://en.wikipedia.org/wiki/IETF_language_tag). For example, <code>name:zh</code> for Chinese, <code>name:zh-Hant</code> for Traditional Chinese, <code>name:zh-Hant-TW</code> for Traditional Chinese (Taiwan), and <code>name:zh-Latn-pinyin</code> for Chinese in pinyin.
+- **<code>name:<var>xyz</var></code>** (`string`): The name in another language, where <var>xyz</var> is a valid [IETF language tag](https://en.wikipedia.org/wiki/IETF_language_tag). For example, <code>name:zh</code> for Chinese, <code>name:zh-Hant</code> for Traditional Chinese, <code>name:zh-Hant-TW</code> for Traditional Chinese (Taiwan), and <code>name:zh-Latn-pinyin</code> for Chinese in pinyin.
 
 For compatibility with the [OpenMapTiles](https://openmaptiles.org/schema/) schema, `name_en` and `name_de` are also recognized as alternatives to `name:en` and `name:de` for English and German, respectively, but only in the `transportation_name` layer. For performance reasons, this format is not supported for any other language or layer.
 
