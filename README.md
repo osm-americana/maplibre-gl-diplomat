@@ -6,7 +6,7 @@ Diplomat prepares your interactive map for an international audience. With a few
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="docs/navajo-nation.png" width="400" alt="Navajo Nation;Naabeehó Bináhásdzo">                                  | [<img src="docs/navajo-nation-es.png" width="400" alt="Nación Navajo (Navajo Nation • Naabeehó Bináhásdzo)">](https://americanamap.org/#map=9/36.2134/-109.2837&language=es)               |
 | <img src="docs/north-sea.png" width="400" alt="North Sea / Nordsee / Noordzee / Nordsøen / Nordsjøen / Mer du Nord">    | [<img src="docs/north-sea-la.png" width="400" alt="Mare Germanicum">](https://americanamap.org/#map=4/56/3&language=la)                                                                    |
-| <img src="docs/section-ross.png" width="400" alt="Ross Avenue;Tennesssee Avenue at Rhode Island Avenue;Section Avenue"> | [<img src="docs/section-ross-en-la.png" width="400" alt="Ross Avenue • Tennesssee Avenue at Rhode Island Avenue • Section Avenue">](https://americanamap.org/#map=17/39.168568/-84.460075) |
+| <img src="docs/section-ross.png" width="400" alt="Ross Avenue;Tennesssee Avenue at Rhode Island Avenue;Section Avenue"> | [<img src="docs/section-ross-en.png" width="400" alt="Ross Avenue • Tennesssee Avenue at Rhode Island Avenue • Section Avenue">](https://americanamap.org/#map=17/39.168568/-84.460075) |
 
 ## Requirements
 
