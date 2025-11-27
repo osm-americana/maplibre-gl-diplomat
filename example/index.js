@@ -49,7 +49,7 @@ addEventListener("load", () => {
     map.setLayoutProperty(
       "place-labels",
       "text-field",
-      maplibregl.Diplomat.localizedNameWithGloss
+      maplibregl.Diplomat.localizedNameWithLocalGloss
     );
     let locales = maplibregl.Diplomat.getLocales();
     let style = map.getStyle();
